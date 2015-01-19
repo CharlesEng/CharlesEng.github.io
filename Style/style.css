@@ -1,0 +1,227 @@
+body {
+background-color:silver;
+}
+
+.contenu{
+margin-top:8em;
+text-align:center;
+}
+
+
+.Image{
+margin-left:6em;
+float:left;
+}
+
+h2{
+color:brown;
+}
+
+.présentation{
+font-size:16pt;
+}
+
+.Panier{
+margin-left:28em;
+width:120px;
+background-color:red;
+color:white;
+}
+
+.Paiement{
+font-size:20pt;
+margin-top:2em;
+border:0.1em solid grey;
+padding:1em 1em 1em 1em;
+border-radius:1em 1em 1em 1em;
+width:500px;
+}
+.titre{
+text-decoration:underline;
+}
+
+.Ad{
+font-size:20pt;
+text-decoration:underline;
+}
+
+.CB{
+margin-top:1em;
+margin-left:2em;
+font-size:16pt;
+width:500px;
+text-decoration:none;
+}
+
+.Livraison{
+width:500px;
+border:0.15em solid grey;
+margin-top:3em;
+border-radius:1em 1em 1em 1em;
+padding-left:2em;
+padding:2em 2em 2em 2em;
+}
+
+.Coordonnées{
+margin-top:3em;
+font-size:30pt;
+text-decoration:underline;
+}
+
+.Total{
+text-align:center;
+font-weight:bold;
+font-size:20pt;
+}
+
+.Commande{
+margin-top:2em;
+margin-left:29em;
+}
+
+.Détail{
+margin-top:9em;
+width:320px;
+float:center;
+margin-left:30em;
+border:0.15em dashed grey;
+padding:1em 1em 1em 1em;
+border-radius:1em 1em 1em 1em;
+}
+
+.envoyer{
+margin-left:35em;
+margin-top:2em;
+padding:1em 1em 1em 1em;
+border-radius:1em 1em 1em 1em;
+}
+
+s{
+color:red;
+}
+
+.Prix{
+font-size:20pt;
+}
+
+
+.NomA:hover{
+text-decoration:underline;
+}
+
+.NomA{
+color:brown;
+font-weight:bold;
+font-size:20pt;
+}
+
+.Article{
+padding-top:8em;
+}
+
+@media(max-width:640px){
+max-width:640px;
+img, table, td, blockquote, code, pre, textarea, input, iframe, object, embed, video {
+    max-width: 100%;
+}
+overflow:hidden;
+}
+
+div.Commentaire{
+border:0.15em solid grey;
+margin-left:3em;
+width:600px;
+padding:1em 1em 1em 1em;
+border-radius:1em 1em 1em 1em;
+}
+
+h5{
+font-size:20pt;
+text-decoration:underline;
+}
+
+textarea{
+width:40em;
+height:20em;
+}
+
+.QSN{
+padding-top:5em;
+}
+
+.Description{
+margin-top:3em;
+margin-left:3em;
+border:0.15em double grey;
+border-radius:1em 1em 1em 1em;
+width:500px;
+padding:1em 1em 1em 1em;
+}
+
+.com{
+padding-top:5em;
+font-size:30pt;
+}
+
+h3{
+font-size:16pt;
+}
+
+h4{
+font-size:16pt;
+text-decoration:underline;
+}
+
+div.Recherche{
+float:right;
+padding-right:1em;
+}
+
+td{
+padding-right:1em;
+padding-left:1em;
+font-size:16pt;
+}
+
+
+a{
+color:white;
+text-decoration:none;
+}
+
+h1{
+border:0.1em solid black;
+width:13em;
+float:center;
+font-size:40pt;
+}
+
+.Barre td:hover{
+background-color:grey;
+}
+.Logo{
+float:left;	
+}
+
+.Article td{
+border:0.1em dashed grey;
+border-radius:1em 1em 1em 1em;
+}
+
+.ESP{
+color:brown;
+}
+
+.ESP:hover{
+text-decoration:underline;
+}
+
+header{
+background-color:black;	
+color:white;
+padding-top:1em;
+font-size:15pt;
+position:fixed;
+width:100%;
+top:0;
+}
